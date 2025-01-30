@@ -11,10 +11,6 @@ Proyek ini adalah aplikasi **GUI (Graphical User Interface)** yang dibangun meng
 4. **Output Hasil**: Hasil perhitungan kalori ditampilkan di antarmuka aplikasi, memberikan informasi yang jelas dan mudah dipahami oleh pengguna.
 
 
-### **Link Proyek**  
-[Link ke Proyek Aplikasi Penghitung Kalori Harian](#)
-
-
 ### **Tools & Technologies**
 - **Bahasa Pemrograman**: Java
 - **Platform**: Apache NetBeans (untuk pengembangan GUI)
